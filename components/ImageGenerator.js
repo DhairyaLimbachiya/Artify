@@ -10,7 +10,7 @@ import { saveAs } from 'file-saver'
 
 export default function ImageGenerator() {
   const configuration = new Configuration({
-    apiKey: process.env.NEXT_PUBLIC_OPENAI_API_KEY,
+    apiKey: process.env.D5Kedj8Irlioidd1wLH1T3BlbkFJAhn6ZljKOEZIF4tszO6u,
   });
 
   const openai = new OpenAIApi(configuration);
